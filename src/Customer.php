@@ -1,6 +1,6 @@
 <?php
 
-namespace Programmerzamannow\BelajarPhpComposerHello;
+namespace Popen\BelajarPhpComposerHello;
 
 class Customer {
 
